@@ -2,7 +2,7 @@
 
 I'm a 4th year undergraduate student at Carleton University, pursuing a cybersecurity specialization as well as minors in both math and English. These days, I'm particularly interested in cryptography (classical crypto, quantum crypto, as well as PQC), approximation algorithms (especially those with data science applications), and optimization problems.
 
-I currently volunteer with the Carleton Computer Science Society as a publications contributor. Previously, I was the Co-President of the Carleton Cybersecurity Club and represented Canada at the International Cybersecurity Challenge. In my free time, I maintain a [blog](https://blog.rkempe.ca/).
+I currently volunteer with the Carleton Computer Science Society as a publications contributor. Previously, I was the Co-President of the Carleton Cybersecurity Club (2023-24) and represented Canada at the International Cybersecurity Challenge (2023). In my free time, I maintain a [blog](https://blog.rkempe.ca/).
 
 ## Some Recent Projects, Talks, etc
 ### Why does Theory Matter in Computer Science? (Talk, Blog Posts)
