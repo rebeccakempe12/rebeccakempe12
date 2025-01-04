@@ -5,7 +5,7 @@ I'm a 4th year undergraduate student at Carleton University, pursuing a cybersec
 In my free time, I maintain a [blog](https://blog.rkempe.ca/) and work on a variety of creative projects. My literary writing has been published in a variety of venues, including [Best Canadian Essays 2025](https://www.biblioasis.com/shop/new-releases/best-canadian-essays-2025/).
 
 ## Some Recent Projects, Talks, etc
-### Why does Theory Matter in Computer Science? (Talk)
+### Why does Theory Matter in Computer Science? (Talk, Blog Posts)
 A talk I did for the [Carleton Computer Science Society Tech Talk Night](https://ccss.carleton.ca/events/2024-2025/2024-11-19-tech-talk-night/) on November 19th, 2024. It aims to explain the importance of abstraction and generalization in computer science (and more broadly in problem solving), and how we can apply theory and/or math to solve real-world problems.
 
 The first section is quite general; it is an overview of what we actually mean when we talk about “theory”, as well as a discussion about abstraction and generalization, which I see as being two fundamental ideas in computer science. The rest of the talk is a little bit more technical in nature – it goes over some real-world problems that can be reduced to the densest subgraph problem, and discusses some algorithms for solving the problem, and looks at some generalizations of the densest subgraph problem. 
