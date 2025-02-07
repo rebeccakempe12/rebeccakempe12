@@ -14,7 +14,7 @@ This presentation was intended to be self-contained and accessible to an audienc
 
 - Presentation Slides: [Why does theory matter in computer science?](https://blog.rkempe.ca/resources/why_theory_matter_cs_rkempe.pdf) (as originally presented on November 19th, 2024)
 - Blog Post, Part 1: [Introduction and Big Ideas: Abstraction and Generalization](https://blog.rkempe.ca/posts/2024/12/why-does-theory-matter-in-computer-science-part-1/)
-- Blog Post, Part 2: Real-World Problems and Crash Course to Graph Theory (forthcoming)
+- Blog Post, Part 2: [Real-World Problems and a Crash Course to Graph Theory](https://blog.rkempe.ca/posts/2025/01/why-does-theory-matter-in-computer-science-part-2/)
 - Blog Post, Part 3: The Densest Subgraph Problem, Peeling, and Iterative Peeling Algorithms (forthcoming)
 - Blog Post, Part 4: Set Functions, Supermodularity, the Densest Supermodular Set Problem, and Key Takeaways (forthcoming)
 
