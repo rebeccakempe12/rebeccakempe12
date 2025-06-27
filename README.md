@@ -6,7 +6,7 @@ I currently volunteer with the Carleton Computer Science Society as a publicatio
 
 ## Some Recent Projects, Talks, etc
 ### Why does Theory Matter in Computer Science? (Talk, Blog Posts)
-A talk I did for the [Carleton Computer Science Society Tech Talk Night](https://ccss.carleton.ca/events/2024-2025/2024-11-19-tech-talk-night/) on November 19th, 2024. It aims to explain the importance of abstraction and generalization in computer science (and more broadly in problem solving), and how we can apply theory and/or math to solve real-world problems.
+A talk I did for the [Carleton Computer Science Society Tech Talk Night](https://ccss.carleton.ca/events/2024-2025/2024-11-19-tech-talk-night/) on November 19th, 2024. It aims to explain why we make computer science students take theory courses, the importance of abstraction and generalization in problem solving, and how we can apply theory and/or math to solve real-world problems. I also discussed the densest subgraph problem, some algorithms for solving the problem, and some generalizations of the densest subgraph problem. 
 
 This presentation was intended to be self-contained and accessible to an audience of second year computer science students. I have also adapted the content of the talk into a series of blog posts, for anyone who was interested but could not attend.
 
