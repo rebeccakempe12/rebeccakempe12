@@ -1,8 +1,8 @@
 ## Hi, I'm Rebecca!
 
-I'm a 4th year Computer Science student at Carleton University, pursuing a cybersecurity specialization as well as minors in both math and English. These days, I'm particularly interested in cryptography (classical crypto, quantum crypto, as well as PQC), approximation algorithms (especially those with data science applications), and optimization problems.
+I'm a graduate student and member of the Carleton Internet Security Lab. My current research is focused on problems related to DNS security, and my broader areas of interest include internet measurements, internet security, public key infrastructure, and distributed systems. I also have a soft spot for cryptography, approximation algorithms (especially those with data science applications), and complexity theory.
 
-I currently volunteer with the Carleton Computer Science Society as a publications contributor. Previously, I was the Co-President of the Carleton Cybersecurity Club (2023-24) and represented Canada at the International Cybersecurity Challenge (2023). In my free time, I maintain a [blog](https://blog.rkempe.ca/).
+During my undergraduate degree, I was Director of Publications of the Carleton Computer Science Society (2024), Co-President of the Carleton Cybersecurity Club (2023-24) and represented Canada at the International Cybersecurity Challenge (2023). I specialized in cybersecurity and double minored in Mathematics and English. In my free time, I maintain a [blog](https://blog.rkempe.ca/).
 
 
 
